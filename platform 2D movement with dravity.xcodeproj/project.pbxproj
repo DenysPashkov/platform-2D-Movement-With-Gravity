@@ -17,6 +17,20 @@
 		84E6D8242428D1300069C953 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84E6D8222428D1300069C953 /* LaunchScreen.storyboard */; };
 		84E6D82F2428D1300069C953 /* platform_2D_movement_with_dravityTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E6D82E2428D1300069C953 /* platform_2D_movement_with_dravityTests.swift */; };
 		84E6D83A2428D1300069C953 /* platform_2D_movement_with_dravityUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E6D8392428D1300069C953 /* platform_2D_movement_with_dravityUITests.swift */; };
+		84E6D8562428D7520069C953 /* apple.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E6D84A2428D7520069C953 /* apple.png */; };
+		84E6D8572428D7520069C953 /* jSubstrate.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E6D84B2428D7520069C953 /* jSubstrate.png */; };
+		84E6D8582428D7520069C953 /* minus@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E6D84C2428D7520069C953 /* minus@2x.png */; };
+		84E6D8592428D7520069C953 /* plus.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E6D84D2428D7520069C953 /* plus.png */; };
+		84E6D85A2428D7520069C953 /* jStick@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E6D84E2428D7520069C953 /* jStick@2x.png */; };
+		84E6D85B2428D7520069C953 /* plus@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E6D84F2428D7520069C953 /* plus@2x.png */; };
+		84E6D85C2428D7520069C953 /* jStick.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E6D8502428D7520069C953 /* jStick.png */; };
+		84E6D85D2428D7520069C953 /* jSubstrate@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E6D8512428D7520069C953 /* jSubstrate@2x.png */; };
+		84E6D85E2428D7520069C953 /* gear.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E6D8522428D7520069C953 /* gear.png */; };
+		84E6D85F2428D7520069C953 /* gear@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E6D8532428D7520069C953 /* gear@2x.png */; };
+		84E6D8602428D7520069C953 /* minus.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E6D8542428D7520069C953 /* minus.png */; };
+		84E6D8612428D7520069C953 /* apple@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 84E6D8552428D7520069C953 /* apple@2x.png */; };
+		84E6D8642428D7960069C953 /* TLAnalogJoystick.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E6D8632428D7960069C953 /* TLAnalogJoystick.swift */; };
+		84E6D86E2429222F0069C953 /* MainCharacter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E6D86D2429222F0069C953 /* MainCharacter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,7 +51,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		84E6D8102428D1300069C953 /* platform 2D movement with dravity.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "platform 2D movement with dravity.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		84E6D8102428D1300069C953 /* Great Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Great Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84E6D8132428D1300069C953 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84E6D8152428D1300069C953 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		84E6D8172428D1300069C953 /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
@@ -53,6 +67,20 @@
 		84E6D8352428D1300069C953 /* platform 2D movement with dravityUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "platform 2D movement with dravityUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84E6D8392428D1300069C953 /* platform_2D_movement_with_dravityUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = platform_2D_movement_with_dravityUITests.swift; sourceTree = "<group>"; };
 		84E6D83B2428D1300069C953 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84E6D84A2428D7520069C953 /* apple.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = apple.png; sourceTree = "<group>"; };
+		84E6D84B2428D7520069C953 /* jSubstrate.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jSubstrate.png; sourceTree = "<group>"; };
+		84E6D84C2428D7520069C953 /* minus@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "minus@2x.png"; sourceTree = "<group>"; };
+		84E6D84D2428D7520069C953 /* plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = plus.png; sourceTree = "<group>"; };
+		84E6D84E2428D7520069C953 /* jStick@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jStick@2x.png"; sourceTree = "<group>"; };
+		84E6D84F2428D7520069C953 /* plus@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "plus@2x.png"; sourceTree = "<group>"; };
+		84E6D8502428D7520069C953 /* jStick.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = jStick.png; sourceTree = "<group>"; };
+		84E6D8512428D7520069C953 /* jSubstrate@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "jSubstrate@2x.png"; sourceTree = "<group>"; };
+		84E6D8522428D7520069C953 /* gear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gear.png; sourceTree = "<group>"; };
+		84E6D8532428D7520069C953 /* gear@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "gear@2x.png"; sourceTree = "<group>"; };
+		84E6D8542428D7520069C953 /* minus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = minus.png; sourceTree = "<group>"; };
+		84E6D8552428D7520069C953 /* apple@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "apple@2x.png"; sourceTree = "<group>"; };
+		84E6D8632428D7960069C953 /* TLAnalogJoystick.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TLAnalogJoystick.swift; sourceTree = "<group>"; };
+		84E6D86D2429222F0069C953 /* MainCharacter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainCharacter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,7 +121,7 @@
 		84E6D8112428D1300069C953 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				84E6D8102428D1300069C953 /* platform 2D movement with dravity.app */,
+				84E6D8102428D1300069C953 /* Great Game.app */,
 				84E6D82A2428D1300069C953 /* platform 2D movement with dravityTests.xctest */,
 				84E6D8352428D1300069C953 /* platform 2D movement with dravityUITests.xctest */,
 			);
@@ -103,11 +131,8 @@
 		84E6D8122428D1300069C953 /* platform 2D movement with dravity */ = {
 			isa = PBXGroup;
 			children = (
-				84E6D8132428D1300069C953 /* AppDelegate.swift */,
-				84E6D8152428D1300069C953 /* GameScene.sks */,
+				84E6D8472428D7070069C953 /* Code */,
 				84E6D8172428D1300069C953 /* Actions.sks */,
-				84E6D8192428D1300069C953 /* GameScene.swift */,
-				84E6D81B2428D1300069C953 /* GameViewController.swift */,
 				84E6D81D2428D1300069C953 /* Main.storyboard */,
 				84E6D8202428D1300069C953 /* Assets.xcassets */,
 				84E6D8222428D1300069C953 /* LaunchScreen.storyboard */,
@@ -134,6 +159,71 @@
 			path = "platform 2D movement with dravityUITests";
 			sourceTree = "<group>";
 		};
+		84E6D8472428D7070069C953 /* Code */ = {
+			isa = PBXGroup;
+			children = (
+				84E6D81B2428D1300069C953 /* GameViewController.swift */,
+				84E6D8132428D1300069C953 /* AppDelegate.swift */,
+				84E6D8482428D7140069C953 /* Views */,
+				84E6D86A242906610069C953 /* Player */,
+			);
+			path = Code;
+			sourceTree = "<group>";
+		};
+		84E6D8482428D7140069C953 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				84E6D8192428D1300069C953 /* GameScene.swift */,
+				84E6D8152428D1300069C953 /* GameScene.sks */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		84E6D8492428D7320069C953 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				84E6D84A2428D7520069C953 /* apple.png */,
+				84E6D8552428D7520069C953 /* apple@2x.png */,
+				84E6D8522428D7520069C953 /* gear.png */,
+				84E6D8532428D7520069C953 /* gear@2x.png */,
+				84E6D8502428D7520069C953 /* jStick.png */,
+				84E6D84E2428D7520069C953 /* jStick@2x.png */,
+				84E6D84B2428D7520069C953 /* jSubstrate.png */,
+				84E6D8512428D7520069C953 /* jSubstrate@2x.png */,
+				84E6D8542428D7520069C953 /* minus.png */,
+				84E6D84C2428D7520069C953 /* minus@2x.png */,
+				84E6D84D2428D7520069C953 /* plus.png */,
+				84E6D84F2428D7520069C953 /* plus@2x.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		84E6D8622428D7750069C953 /* Joystick */ = {
+			isa = PBXGroup;
+			children = (
+				84E6D8632428D7960069C953 /* TLAnalogJoystick.swift */,
+				84E6D8492428D7320069C953 /* Images */,
+			);
+			path = Joystick;
+			sourceTree = "<group>";
+		};
+		84E6D865242903790069C953 /* Movement */ = {
+			isa = PBXGroup;
+			children = (
+				84E6D8622428D7750069C953 /* Joystick */,
+			);
+			path = Movement;
+			sourceTree = "<group>";
+		};
+		84E6D86A242906610069C953 /* Player */ = {
+			isa = PBXGroup;
+			children = (
+				84E6D86D2429222F0069C953 /* MainCharacter.swift */,
+				84E6D865242903790069C953 /* Movement */,
+			);
+			path = Player;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -151,7 +241,7 @@
 			);
 			name = "platform 2D movement with dravity";
 			productName = "platform 2D movement with dravity";
-			productReference = 84E6D8102428D1300069C953 /* platform 2D movement with dravity.app */;
+			productReference = 84E6D8102428D1300069C953 /* Great Game.app */;
 			productType = "com.apple.product-type.application";
 		};
 		84E6D8292428D1300069C953 /* platform 2D movement with dravityTests */ = {
@@ -240,8 +330,20 @@
 			files = (
 				84E6D81F2428D1300069C953 /* Main.storyboard in Resources */,
 				84E6D8162428D1300069C953 /* GameScene.sks in Resources */,
+				84E6D85A2428D7520069C953 /* jStick@2x.png in Resources */,
+				84E6D8592428D7520069C953 /* plus.png in Resources */,
+				84E6D8572428D7520069C953 /* jSubstrate.png in Resources */,
+				84E6D85C2428D7520069C953 /* jStick.png in Resources */,
 				84E6D8212428D1300069C953 /* Assets.xcassets in Resources */,
 				84E6D8242428D1300069C953 /* LaunchScreen.storyboard in Resources */,
+				84E6D8602428D7520069C953 /* minus.png in Resources */,
+				84E6D85E2428D7520069C953 /* gear.png in Resources */,
+				84E6D85D2428D7520069C953 /* jSubstrate@2x.png in Resources */,
+				84E6D8582428D7520069C953 /* minus@2x.png in Resources */,
+				84E6D8562428D7520069C953 /* apple.png in Resources */,
+				84E6D85B2428D7520069C953 /* plus@2x.png in Resources */,
+				84E6D85F2428D7520069C953 /* gear@2x.png in Resources */,
+				84E6D8612428D7520069C953 /* apple@2x.png in Resources */,
 				84E6D8182428D1300069C953 /* Actions.sks in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -269,7 +371,9 @@
 			files = (
 				84E6D81A2428D1300069C953 /* GameScene.swift in Sources */,
 				84E6D81C2428D1300069C953 /* GameViewController.swift in Sources */,
+				84E6D86E2429222F0069C953 /* MainCharacter.swift in Sources */,
 				84E6D8142428D1300069C953 /* AppDelegate.swift in Sources */,
+				84E6D8642428D7960069C953 /* TLAnalogJoystick.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -449,10 +553,11 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.DenysPashkov.platform-2D-movement-with-dravity";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Great Game";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -467,10 +572,11 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.DenysPashkov.platform-2D-movement-with-dravity";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Great Game";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
